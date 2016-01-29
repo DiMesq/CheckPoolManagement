@@ -1,4 +1,4 @@
-# CheckPoolManagement
+#Processeing Issued Checks
 Final project for the intro to algorithms and data structures class. 
 
 # About
@@ -20,5 +20,7 @@ For the fast execution of these commands, we use an AVL (balanced binary tree) t
 
 # Using
 You should clone the repo and compile all the files. 
+
 The main function is found in the *INTERFACE.c* file.
+
 Then run the executable.
